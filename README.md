@@ -1,2 +1,2 @@
-# adventofcode2019
-Solutions to the Advent of Code problems for 2019
+# Advent of Code 2019
+Solutions to the [Advent of Code](https://adventofcode.com/2019) problems for 2019
